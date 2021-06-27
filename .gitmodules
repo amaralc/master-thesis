@@ -1,3 +1,6 @@
 [submodule "ufsc-latex-template-rn-46-2019"]
 	path = templates/ufsc-latex-template-rn-46-2019
 	url = https://github.com/amaralc/ufsc-latex-template-rn-46-2019
+[submodule "ufscthesisx"]
+	path = templates/ufscthesisx
+	url = https://github.com/amaralc/ufscthesisx
