@@ -5,7 +5,3 @@
 [submodule "ufscthesisx"]
 	path = templates/ufscthesisx
 	url = https://github.com/amaralc/ufscthesisx
-
-[submodule "master-thesis-latex"]
-	path = master-thesis-latex
-	url = https://github.com/amaralc/master-thesis-latex
