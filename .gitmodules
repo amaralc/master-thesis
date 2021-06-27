@@ -1,6 +1,3 @@
-[submodule "master-thesis-latex"]
-	path = master-thesis-latex
-	url = https://github.com/amaralc/master-thesis-latex
 [submodule "ufsc-latex-template-rn-46-2019"]
-	path = ufsc-latex-template-rn-46-2019
+	path = templates/ufsc-latex-template-rn-46-2019
 	url = https://github.com/amaralc/ufsc-latex-template-rn-46-2019
