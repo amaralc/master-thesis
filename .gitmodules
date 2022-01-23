@@ -10,3 +10,6 @@
 [submodule "archive/master-thesis-2020-deprecated"]
 	path = archive/master-thesis-2020-deprecated
 	url = git@github.com:amaralc/master-thesis-2020-deprecated.git
+[submodule "archive/master-thesis-2021"]
+	path = archive/master-thesis-2021
+	url = git@github.com:amaralc/master-thesis-2021.git
