@@ -7,3 +7,6 @@
 [submodule "master-thesis-latex"]
 	path = master-thesis-latex
 	url = https://github.com/amaralc/master-thesis-latex
+[submodule "archive/master-thesis-2020-deprecated"]
+	path = archive/master-thesis-2020-deprecated
+	url = git@github.com:amaralc/master-thesis-2020-deprecated.git
